@@ -1,6 +1,6 @@
 ### Olá sou Henzo Farina 👋
 
-- 🔭 hoje estou a busca do meu trabalho
+- 🔭 hoje estou a busca do meu primeiro emprego.
 - 🌱 Estou atualmente estudando Java, C, Redes de computadores.
 
 <div align="center">
