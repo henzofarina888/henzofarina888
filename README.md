@@ -1,7 +1,8 @@
 ### Olá sou Henzo Farina 👋
 
 - 🔭 hoje estou a busca do meu primeiro emprego.
-- 🌱 Estou atualmente estudando Java, C, Redes de computadores.
+- 🌱 curso curso de java Avançado pela fundação bradesco e cursando um segunda curso de analise de dados do google.
+
 
 <div align="center">
   <a href="https://github.com/henzofarina888">
