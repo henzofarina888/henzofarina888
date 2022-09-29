@@ -1,7 +1,7 @@
 ### Olá sou Henzo Farina 👋
 
-- 🔭 hoje estou a busca do meu primeiro emprego.
-- 🌱 curso curso de java Avançado pela fundação bradesco e cursando um segunda curso de analise de dados do google.
+- 🔭 Hoje estou a busca do meu primeiro emprego.
+- 🌱 Curso curso de java Avançado pela fundação bradesco e cursando um segunda curso de analise de dados do google.
 
 
 <div align="center">
