@@ -1,4 +1,4 @@
-https://br.linkedin.com/in/henzo-farina-1ab96a221?trk=people-guest_people_search-card### Olá sou Henzo Farina 👋
+### Olá sou Henzo Farina 👋
 
 - 🔭 Hoje estou a busca do meu primeiro emprego.
 - 🌱 Curso curso de java Avançado pela fundação bradesco e cursando um segunda curso de analise de dados do google.
